@@ -62,6 +62,10 @@
     .notice {
         background-color: #191919;
     }
+
+    .input {
+        border: #3498db 5px solid;
+    }
 }
 
 .title {
